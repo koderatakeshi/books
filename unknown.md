@@ -1,0 +1,7 @@
+- TypeScriptとReact/Next.jsですつくる実践Webアプリケーション開発
+- 初めてのTypeScript
+- プログラミングTypeScript
+- 安全なWebアプリケーションお作り方
+- AWSの基本・仕組み・重要用語が全てわかる教科書
+- 図解まるわかりサーバーのしくみ
+- 0からはじめるLinux
